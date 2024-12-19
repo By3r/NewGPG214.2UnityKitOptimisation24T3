@@ -1,0 +1,8 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.7f1
+CRC: 3573310724
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: basiclevelassets_19.12.24
+      Dependencies: {}

@@ -1,13 +1,5 @@
 fileFormatVersion: 2
 guid: 683597be51f41bb4cbba59294cae8b30
-timeCreated: 1516274527
-licenseType: Store
-NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
 AssetOrigin:
   serializedVersion: 1
   productId: 115747
@@ -15,3 +7,8 @@ AssetOrigin:
   packageVersion: 1.9.5
   assetPath: Assets/3DGamekit/Prefabs/UIPrefabs/KeyCanvas.prefab
   uploadId: 604606
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: basiclevelassets_19.12.24
+  assetBundleVariant: 

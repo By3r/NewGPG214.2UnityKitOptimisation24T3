@@ -1,0 +1,208 @@
+ManifestFileVersion: 0
+UnityVersion: 2023.2.7f1
+CRC: 1255908955
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cf27f71afbeecf7eaf825a293c2382b5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 09dcd28115c87cd19f9eb12919ea2bd7
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 200ac2dfc958bf2343d1bc37454d3774
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0149b5ab8f608c943b260125ac76d875, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57d776d3b5d374a85878205fd36ca47a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67e67574f8bdc4de4a45a7c3adc22797, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4c2153ec97cc51e49b8295bc76a9869e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e188162c08864fc4bfe48b8b1ba4c5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 23fa698560b688845bf08bafe6dc1b28, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71bea4c010b684720a24c8646da392e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8233d90336aea43098adf6dbabd606a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 051b4df1f81e5e94c8099b57fe38cc9e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ec6493b767cf74f0d9596c68f7c53647, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6e38ccf902f148e69c411da9fcde5cf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Gamekit3D.RandomAudioPlayer/SoundBank
+- AssemblyName: Unity.ProBuilder
+  ClassName: UnityEngine.ProBuilder.AutoUnwrapSettings
+- AssemblyName: Unity.ProBuilder
+  ClassName: UnityEngine.ProBuilder.Face
+- AssemblyName: Unity.ProBuilder
+  ClassName: UnityEngine.ProBuilder.SharedVertex
+- AssemblyName: Unity.ProBuilder
+  ClassName: UnityEngine.ProBuilder.UnwrapParameters
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/3DGamekit/Art/Textures/Interactables/MovingPlatform_Albedo.tif
+- Assets/3DGamekit/Audio/Interactables/MovingPlatforms/Moving_Platforms_Room_3_Loop_02.ogg
+- Assets/3DGamekit/Art/Textures/Interactables/SwitchCrystal_MetallicSmooth.png
+- Assets/3DGamekit/Art/Animations/Animators/Interactables/SwitchStanding.controller
+- Assets/3DGamekit/Art/Textures/Environment/Ground/Moss_Normal.tif
+- Assets/3DGamekit/Prefabs/UIPrefabs/KeyCanvas.prefab
+- Assets/3DGamekit/Art/Textures/Interactables/HealthBox_Emission.tif
+- Assets/3DGamekit/Art/Textures/Interactables/Switch_Normal.png
+- Assets/3DGamekit/Art/Textures/Interactables/WeaponPedestal_MetallicSmooth.tif
+- Assets/3DGamekit/Art/Textures/Interactables/Box_Emission.tif
+- Assets/3DGamekit/Art/Materials/Environment/VegetationSmall/Grass_02_Mat.mat
+- Assets/3DGamekit/Art/Textures/Interactables/Switch_Occlusion.png
+- Assets/3DGamekit/Art/Textures/Interactables/WeaponPedestal_Occlusion.tif
+- Assets/3DGamekit/Art/Animations/AnimationClips/Interactables/SwitchStanding_Idle.anim
+- Assets/3DGamekit/Art/Textures/Interactables/Switch_Emission.png
+- Assets/3DGamekit/Art/Materials/Interactables/WeaponPedestal_Mat.mat
+- Assets/3DGamekit/Art/Textures/Interactables/SwitchCrystal_Occlusion.png
+- Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/Grass01_Height.tiff
+- Assets/3DGamekit/Audio/Interactables/Switches/Switch_Activated_Before_Activation_Loop_01.ogg
+- Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/Grass01_MetallicSmooth.tif
+- Assets/GPG214.2DanaTaha24T3/GameAssets/Prefabs/3DGamekitPrefabs/Dana_Stacked5Cubes.prefab
+- Assets/3DGamekit/Art/Materials/Environment/VegetationSmall/Grass_01_Mat.mat
+- Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/Grass01_Normal.tif
+- Assets/GPG214.2DanaTaha24T3/GameAssets/Prefabs/3DGamekitPrefabs/Dana-Switch.prefab
+- Assets/3DGamekit/Art/Textures/Interactables/Switch_Albedo.png
+- Assets/3DGamekit/Audio/Interactables/HealthBoxes/Key_Pickup_Health_Box_Loop_01.ogg
+- Assets/3DGamekit/Art/Animations/AnimationClips/Interactables/SwitchStanding_IdleActivated.anim
+- Assets/GPG214.2DanaTaha24T3/GameAssets/Materials/M_Yellow.mat
+- Assets/GPG214.2DanaTaha24T3/GameAssets/Prefabs/3DGamekitPrefabs/Dana_Door.prefab
+- Assets/3DGamekit/Audio/Mixers/ResonanceAudioMixer.mixer
+- Assets/3DGamekit/Art/Textures/Interactables/BoxBreakable_Normal.tif
+- Assets/3DGamekit/Audio/Interactables/HealthBoxes/Key_Pickup_Health_Box_Open_01.ogg
+- Assets/3DGamekit/Audio/Interactables/MovingPlatforms/Moving_Platforms_Room_3_Loop_01.ogg
+- Assets/3DGamekit/Art/Textures/Interactables/WeaponPedestal_Emission.tif
+- Assets/3DGamekit/Art/Animations/AnimationClips/Interactables/SwitchStanding_Activate.anim
+- Assets/3DGamekit/Art/Models/Environment/Stonework/MovingPlatformSide.fbx
+- Assets/3DGamekit/Art/Textures/Interactables/KeyCrystal_Albedo.tif
+- Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/Grass01Purple_Albedo.tif
+- Assets/3DGamekit/Art/Textures/Interactables/WeaponPedestal_Normal.tif
+- Assets/3DGamekit/Audio/Interactables/WeaponPickup/Key_Pickup_Weapon_Loop_01.ogg
+- Assets/3DGamekit/Art/Textures/Interactables/WeaponPedestal_Albedo.tif
+- Assets/3DGamekit/Art/Materials/Interactables/HealthBox_Mat.mat
+- Assets/3DGamekit/Art/Textures/Interactables/Key_Occlusion.png
+- Assets/3DGamekit/Audio/Interactables/MovingPlatforms/Moving_Platforms_Room_2_One_Shot_02.ogg
+- Assets/3DGamekit/Art/Textures/Interactables/HealthBox_Normal.tif
+- Assets/3DGamekit/Audio/Interactables/Switches/Switch_Activated_02.ogg
+- Assets/3DGamekit/Art/Textures/Interactables/Key_MetallicSmooth.png
+- Assets/3DGamekit/Art/Models/Interactables/WeaponPedestal.fbx
+- Assets/3DGamekit/Art/Textures/Interactables/BoxBreakable_Occlusion.tif
+- Assets/3DGamekit/Art/Textures/Interactables/MovingPlatform_MetallicSmooth.tif
+- Assets/3DGamekit/Audio/Interactables/MovingPlatforms/Moving_Platforms_Room_3_Loop_03.ogg
+- Assets/3DGamekit/Art/Textures/Interactables/Switch_MetallicSmooth.png
+- Assets/GPG214.2DanaTaha24T3/GameAssets/Prefabs/3DGamekitPrefabs/Dana_GroundCover01.prefab
+- Assets/3DGamekit/Audio/Interactables/Switches/Switch_Activated_03.ogg
+- Assets/3DGamekit/Art/Textures/Interactables/Key_Normal.png
+- Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/Grass01_Occlusion.tiff
+- Assets/3DGamekit/Audio/Interactables/WeaponPickup/Key_Pickup_Weapon_Pickup_01.ogg
+- Assets/3DGamekit/Art/Textures/Interactables/Key_Albedo.png
+- Assets/3DGamekit/Art/Textures/Interactables/BoxBreakable_Albedo.tif
+- Assets/3DGamekit/Audio/Interactables/MovingPlatforms/Moving_Platforms_Room_2_One_Shot_01.ogg
+- Assets/3DGamekit/Art/Materials/Interactables/Key_Mat.mat
+- Assets/3DGamekit/Art/Textures/Interactables/MovingPlatform_Normal.tif
+- Assets/3DGamekit/Art/Models/Environment/Stonework/MovingPlatformMiddle.fbx
+- Assets/3DGamekit/Art/Models/Environment/Stonework/MovingPlatformCorner.fbx
+- Assets/3DGamekit/Art/Textures/Interactables/BoxBreakable_MetallicSmooth.tif
+- Assets/3DGamekit/Art/Textures/Environment/Ground/Moss_Albedo.tif
+- Assets/GPG214.2DanaTaha24T3/GameAssets/Prefabs/3DGamekitPrefabs/Dana_WeaponPedestal.prefab
+- Assets/3DGamekit/Art/Textures/Interactables/SwitchCrystal_Normal.png
+- Assets/GPG214.2DanaTaha24T3/GameAssets/Prefabs/3DGamekitPrefabs/Dana_HealthCrate.prefab
+- Assets/3DGamekit/Audio/Interactables/Switches/Switch_Activated_01.ogg
+- Assets/3DGamekit/Art/Textures/Interactables/SwitchCrystal_Emission.png
+- Assets/GPG214.2DanaTaha24T3/GameAssets/Prefabs/3DGamekitPrefabs/Dana_GroundCover02.prefab
+- Assets/3DGamekit/Art/Materials/Environment/Stonework/MovingPlatform_mat.mat
+- Assets/3DGamekit/Art/Textures/Environment/Ground/Moss_Normal1.tif
+- Assets/3DGamekit/Audio/Interactables/MovingPlatforms/Moving_Platforms_Room_1_Loop_01.ogg
+- Assets/3DGamekit/Art/Textures/Interactables/MovingPlatform_Occlusion.tif
+- Assets/3DGamekit/Art/Textures/Environment/VegetationSmall/Grass01_Albedo.tif
+- Assets/3DGamekit/Art/Textures/Interactables/HealthBox_MetallicSmooth.tif
+- Assets/GPG214.2DanaTaha24T3/GameAssets/Materials/M_Brown.mat
+- Assets/3DGamekit/Art/Materials/Interactables/Switch_Mat.mat
+- Assets/3DGamekit/Art/Materials/Environment/VegetationSmall/Grass_03_Mat.mat
+- Assets/GPG214.2DanaTaha24T3/GameAssets/Prefabs/3DGamekitPrefabs/Dana_MovingPlatform.prefab
+- Assets/GPG214.2DanaTaha24T3/GameAssets/Prefabs/3DGamekitPrefabs/Dana_Key.prefab
+- Assets/3DGamekit/Art/Textures/Interactables/MovingPlatform_Emission.tif
+- Assets/3DGamekit/Art/Textures/Interactables/KeyCrystal_Emission.tif
+- Assets/3DGamekit/Art/Textures/Interactables/Key_Emission.png
+- Assets/3DGamekit/Art/Textures/Interactables/HealthBox_Albedo.tif
+- Assets/3DGamekit/Art/Textures/Interactables/SwitchCrystal_Albedo.png
+- Assets/3DGamekit/Audio/Interactables/Switches/Switch_Activated_After_Activation_Loop_01.ogg
+- Assets/GPG214.2DanaTaha24T3/GameAssets/Prefabs/3DGamekitPrefabs/Dana_DestructibleBox.prefab
+- Assets/3DGamekit/Art/Materials/Interactables/KeyCrystal_Mat.mat
+- Assets/GPG214.2DanaTaha24T3/GameAssets/Prefabs/3DGamekitPrefabs/Dana_GroundCover03.prefab
+Dependencies: []
