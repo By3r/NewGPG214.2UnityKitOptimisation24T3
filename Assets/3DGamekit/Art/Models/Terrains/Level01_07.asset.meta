@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8740eab6102ea04cbfc3f7f366e3113
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Models/Terrains/Level01_07.asset
+  uploadId: 604606

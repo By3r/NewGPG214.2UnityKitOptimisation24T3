@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c133f7c09f64ab447b8e96d17ad7cac6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Shaders/CollectShadowWaterCustom.shader
+  uploadId: 604606

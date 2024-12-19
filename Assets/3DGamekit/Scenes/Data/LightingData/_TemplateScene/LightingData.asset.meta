@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: db2a23b3c97edeb45b6dd42b3bb2040c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scenes/Data/LightingData/_TemplateScene/LightingData.asset
+  uploadId: 604606

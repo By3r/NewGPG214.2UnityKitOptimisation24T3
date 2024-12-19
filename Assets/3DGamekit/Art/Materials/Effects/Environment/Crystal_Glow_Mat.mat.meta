@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b6477d7389e16684e8d9e9d03a5409fb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Materials/Effects/Environment/Crystal_Glow_Mat.mat
+  uploadId: 604606

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 26f7584ec6c1c0446b5874c58f92bedb
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Packages/ProBuilder Data/Default Material Palette.asset
+  uploadId: 604606

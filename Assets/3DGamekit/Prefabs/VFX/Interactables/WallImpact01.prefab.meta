@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ce79a324ac7035a419d60266b2ed94d7
+timeCreated: 1503494452
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/VFX/Interactables/WallImpact01.prefab
+  uploadId: 604606

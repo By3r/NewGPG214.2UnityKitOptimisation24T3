@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ab00407c926cac941a9f7a98a25e2737
+timeCreated: 1499763477
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Game/Timeline/CutsceneScriptControl/Editor/CutsceneScriptControlDrawer.cs
+  uploadId: 604606

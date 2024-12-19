@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16cba83f642417048b47dad0d1a56ba4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/VFX/Environment/Dropship/DropshipSmokeRing.prefab
+  uploadId: 604606

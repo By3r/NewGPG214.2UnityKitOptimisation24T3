@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6e188162c08864fc4bfe48b8b1ba4c5b
+timeCreated: 1491849364
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Packages/Interactive/Runtime/Senders/SendOnTriggerEnter.cs
+  uploadId: 604606

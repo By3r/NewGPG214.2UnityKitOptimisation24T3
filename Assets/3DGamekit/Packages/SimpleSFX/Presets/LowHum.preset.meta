@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03e5faa5a6d0e4e5bb88db31ae2dea73
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Packages/SimpleSFX/Presets/LowHum.preset
+  uploadId: 604606

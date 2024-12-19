@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: a8fe30a8007556b42923714c571d185e
+timeCreated: 1512571121
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Effects/GunnerLightning.cs
+  uploadId: 604606

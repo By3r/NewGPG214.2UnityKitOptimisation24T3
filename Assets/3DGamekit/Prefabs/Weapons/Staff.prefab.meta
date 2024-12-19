@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4d3e2f549a890b6428d53a7e71334154
+timeCreated: 1494433969
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Weapons/Staff.prefab
+  uploadId: 604606

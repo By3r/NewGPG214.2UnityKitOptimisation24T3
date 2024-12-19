@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d6e958b3fd6ed8a4a86879ba84b23a1c
+timeCreated: 1506002143
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Environment/Dropship/Dropship.prefab
+  uploadId: 604606

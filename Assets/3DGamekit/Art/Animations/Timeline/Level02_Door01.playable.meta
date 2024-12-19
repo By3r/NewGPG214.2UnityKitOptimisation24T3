@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4d25df866f121c84bb383235933cbbc2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Animations/Timeline/Level02_Door01.playable
+  uploadId: 604606

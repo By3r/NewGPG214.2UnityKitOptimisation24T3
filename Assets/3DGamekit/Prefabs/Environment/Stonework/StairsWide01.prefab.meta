@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4886a50a7184e28418addb3e071f19ee
+timeCreated: 1514981655
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Environment/Stonework/StairsWide01.prefab
+  uploadId: 604606

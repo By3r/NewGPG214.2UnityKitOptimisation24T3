@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2d558d09b74b582498bbe0a6f75d0142
+timeCreated: 1492688014
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Animations/AnimationClips/Environment/Doors_close.anim
+  uploadId: 604606

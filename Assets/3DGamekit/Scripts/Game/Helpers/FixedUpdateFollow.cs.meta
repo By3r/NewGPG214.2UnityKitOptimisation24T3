@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a2aff2339e25c6f4d8a5f97140836198
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Game/Helpers/FixedUpdateFollow.cs
+  uploadId: 604606

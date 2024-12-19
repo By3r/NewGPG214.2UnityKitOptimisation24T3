@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5a0c1b5b20deb5340b82c3aa4b716c73
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Materials/Environment/Stonework/StairsWideBroken_mat.mat
+  uploadId: 604606

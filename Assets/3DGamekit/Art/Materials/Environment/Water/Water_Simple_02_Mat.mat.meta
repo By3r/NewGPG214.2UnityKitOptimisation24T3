@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: accc649002a06be4ebfda0e38dc4bb6f
+timeCreated: 1507726420
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Materials/Environment/Water/Water_Simple_02_Mat.mat
+  uploadId: 604606

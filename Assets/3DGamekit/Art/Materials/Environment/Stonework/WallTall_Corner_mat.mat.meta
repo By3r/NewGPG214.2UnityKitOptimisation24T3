@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c8ce8ac43d3b78949ab5b0c47900a62c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Materials/Environment/Stonework/WallTall_Corner_mat.mat
+  uploadId: 604606

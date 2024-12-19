@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 51b925cc4194f418382c47381895838b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Environment/Water/GroundFog.prefab
+  uploadId: 604606

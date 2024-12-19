@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ff6fd2282674c0346b27bc7612d8a113
+timeCreated: 1494433965
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Weapons/Pistol.prefab
+  uploadId: 604606

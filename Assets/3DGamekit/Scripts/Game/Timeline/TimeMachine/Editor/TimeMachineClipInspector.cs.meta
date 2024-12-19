@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 886d6fadf7b1e4b2f87e4bc28e1ba343
+timeCreated: 1502987234
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Game/Timeline/TimeMachine/Editor/TimeMachineClipInspector.cs
+  uploadId: 604606

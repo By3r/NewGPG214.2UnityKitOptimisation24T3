@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b86a807eeba35472e9f6ca4a390385de
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2655988077585873504
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Packages/SimpleSFX/Presets/Wind-1.preset
+  uploadId: 604606

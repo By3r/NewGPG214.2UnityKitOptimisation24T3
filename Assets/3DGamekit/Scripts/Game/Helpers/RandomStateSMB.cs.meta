@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6034a99e741c42844bcbc546b49cec42
+timeCreated: 1494921241
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Game/Helpers/RandomStateSMB.cs
+  uploadId: 604606

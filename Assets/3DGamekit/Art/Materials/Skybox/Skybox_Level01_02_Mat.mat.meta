@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7941d546c34e52d49b618fbbc8a9e76d
+timeCreated: 1494576967
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Materials/Skybox/Skybox_Level01_02_Mat.mat
+  uploadId: 604606

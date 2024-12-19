@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: f65eaa0478951bb45aa64368481f6be7
+timeCreated: 1498213718
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Game/Core/InteractionCollision.cs
+  uploadId: 604606

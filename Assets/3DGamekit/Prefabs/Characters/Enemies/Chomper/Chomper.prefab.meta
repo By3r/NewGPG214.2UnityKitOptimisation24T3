@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e9569c7e13e51264082910415a120d38
+timeCreated: 1494498704
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Characters/Enemies/Chomper/Chomper.prefab
+  uploadId: 604606

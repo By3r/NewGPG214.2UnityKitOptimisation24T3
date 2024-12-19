@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: aaf7f16f22ea1354b8177f920b74ff3e
+timeCreated: 1515149222
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Animations/AnimationClips/Environment/GateWayHugeDoor_Close.anim
+  uploadId: 604606

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f4bc54f45094cb1409a20f7d451493ae
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Animations/Animators/Interactables/HealthCrate.controller
+  uploadId: 604606

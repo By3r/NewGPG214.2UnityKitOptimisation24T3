@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0b6fa94aafa6a4457b168f32f5a7cc5b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Packages/WorldBuilding/Editor/MegaSmartObjectEditor.cs
+  uploadId: 604606

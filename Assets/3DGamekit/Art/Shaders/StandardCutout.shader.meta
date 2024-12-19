@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f6727f0d9d4c78f4099af3778ab2567c
+timeCreated: 1503330299
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Shaders/StandardCutout.shader
+  uploadId: 604606

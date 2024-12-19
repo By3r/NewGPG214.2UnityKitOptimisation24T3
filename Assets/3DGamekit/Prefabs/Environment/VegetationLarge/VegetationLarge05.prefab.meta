@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f06b50c23b0d2d24d98c707088d809d2
+timeCreated: 1505900604
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Environment/VegetationLarge/VegetationLarge05.prefab
+  uploadId: 604606

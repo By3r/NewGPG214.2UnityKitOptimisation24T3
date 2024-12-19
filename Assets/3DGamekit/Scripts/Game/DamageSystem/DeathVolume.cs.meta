@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: fa72860f90eb94f1180f3f48e5caa4cb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Game/DamageSystem/DeathVolume.cs
+  uploadId: 604606

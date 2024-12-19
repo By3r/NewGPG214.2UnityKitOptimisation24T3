@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: bda7ed403f99d644d9b9ba13cbd7d1db
+timeCreated: 1492688014
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Animations/AnimationClips/Environment/Doors_open.anim
+  uploadId: 604606

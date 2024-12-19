@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e48dc3fe7602c914abada8cec9711f48
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Shaders/Vegetation.shader
+  uploadId: 604606

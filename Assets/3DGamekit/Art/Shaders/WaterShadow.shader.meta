@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3a8504d81c6f4443ca0629e890b67363
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Shaders/WaterShadow.shader
+  uploadId: 604606

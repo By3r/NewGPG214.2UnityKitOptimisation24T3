@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 852231183224347d9931e43c3efab667
+timeCreated: 1501582688
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Game/Core/Editor/AddObjectiveSubEditor.cs
+  uploadId: 604606

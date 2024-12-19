@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 702e43600f5616c4c985f8bf481a4c75
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/3DGameKit_Third-PartyNotice.txt
+  uploadId: 604606

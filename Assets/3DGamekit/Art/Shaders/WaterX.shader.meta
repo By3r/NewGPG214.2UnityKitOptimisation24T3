@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f2051bbb9894243a2bffdd39af887a67
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Shaders/WaterX.shader
+  uploadId: 604606

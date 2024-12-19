@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 1c2338eceddf7ea49a046cd38b621b60
+timeCreated: 1503480471
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/VFX/Environment/Dropship/ShipEnginesIdle.prefab
+  uploadId: 604606

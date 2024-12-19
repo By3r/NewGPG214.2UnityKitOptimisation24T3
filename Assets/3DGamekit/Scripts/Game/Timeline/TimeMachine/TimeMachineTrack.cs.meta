@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 953ed7aca09b34401900d5e2a9d9b5ac
+timeCreated: 1503174127
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Game/Timeline/TimeMachine/TimeMachineTrack.cs
+  uploadId: 604606

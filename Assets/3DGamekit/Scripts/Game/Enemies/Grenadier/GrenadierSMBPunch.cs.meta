@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: ce45e8cac17a2ce418980c8f69f9a71c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Game/Enemies/Grenadier/GrenadierSMBPunch.cs
+  uploadId: 604606

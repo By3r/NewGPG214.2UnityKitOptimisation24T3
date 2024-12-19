@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "105344522869",
+    "firebase_url": "https://g214danataha24t3-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "g214danataha24t3",
+    "storage_bucket": "g214danataha24t3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105344522869:ios:8d3ac8ed5e572990cfb63c",
+        "android_client_info": {
+          "package_name": "com.DanaTaha.GPG214"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqFSMpc898ga4S5J8e2tUgT5zqUZWPiek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

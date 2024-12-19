@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b8e88b0dea5ac274687b7726b8d0acce
+timeCreated: 1505899825
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Environment/Rock/CliffBig02.prefab
+  uploadId: 604606

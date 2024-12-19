@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 6673697e2368e6c4496b303f28100ffe
+timeCreated: 1503409922
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Materials/Effects/Environment/Dropship_Engine_Particle_01_Mat.mat
+  uploadId: 604606

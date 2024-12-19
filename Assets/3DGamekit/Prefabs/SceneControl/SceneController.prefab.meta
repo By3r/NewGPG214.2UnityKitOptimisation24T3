@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d88be276a1e4d2d4da0e24014ff53616
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/SceneControl/SceneController.prefab
+  uploadId: 604606

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a64b3c7f3979e4251981686dd799eb2a
+timeCreated: 1498559922
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Shaders/Vegetable_CNSSS.shader
+  uploadId: 604606

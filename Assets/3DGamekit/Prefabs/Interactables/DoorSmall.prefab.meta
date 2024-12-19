@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6da6f0b6d8bbde34cb96892720290f99
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Interactables/DoorSmall.prefab
+  uploadId: 604606

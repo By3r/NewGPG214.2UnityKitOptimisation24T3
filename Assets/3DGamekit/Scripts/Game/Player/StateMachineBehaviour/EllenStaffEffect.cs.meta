@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 63a7651b066fdb843b9ab4d0e7dd7a19
+timeCreated: 1501680412
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Game/Player/StateMachineBehaviour/EllenStaffEffect.cs
+  uploadId: 604606

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8cb9d00357e9a7d4ba95efba7231689a
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Editor/PackageManagerAssembly/PackageImportList.txt
+  uploadId: 604606

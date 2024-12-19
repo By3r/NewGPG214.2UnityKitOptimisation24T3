@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1402721190994cd46b64bf7cba78f5d8
+timeCreated: 1473672216
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Materials/Effects/Environment/Dust_Particle_01_Mat.mat
+  uploadId: 604606

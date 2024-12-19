@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ea8ac0f28db7ea24b8ab84de001c52e6
+timeCreated: 1501672513
+licenseType: Store
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Shaders/Swish.shader
+  uploadId: 604606

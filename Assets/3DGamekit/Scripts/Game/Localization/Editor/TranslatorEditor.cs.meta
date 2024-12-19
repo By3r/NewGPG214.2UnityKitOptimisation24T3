@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b3ee289eb8955a14baf67095be72a4fe
+timeCreated: 1509467955
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Game/Localization/Editor/TranslatorEditor.cs
+  uploadId: 604606

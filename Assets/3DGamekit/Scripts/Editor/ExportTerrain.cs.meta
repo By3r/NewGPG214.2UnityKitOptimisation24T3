@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: d719f4990df88b0449ec9c1358c8b2af
+timeCreated: 1506680171
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Editor/ExportTerrain.cs
+  uploadId: 604606

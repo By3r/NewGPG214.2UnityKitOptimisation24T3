@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6e346c3fa450443dbaa9506ddb3a521d
+timeCreated: 1498559922
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Shaders/ToonSkin.shader
+  uploadId: 604606

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6c84c19482e854549a946cb7c6719918
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Materials/Skybox/Clouds/Cloud_03_Mat.mat
+  uploadId: 604606

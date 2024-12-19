@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b4d52da8c0d97f841be80b861af24164
+timeCreated: 1514910217
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Materials/Environment/Stonework/FloorCircular02_Mat.mat
+  uploadId: 604606

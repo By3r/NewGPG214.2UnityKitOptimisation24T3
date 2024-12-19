@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ab04f85ac9b36c54d845c19b3dda4fe2
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Environment/Stonework/PlatformLong.prefab
+  uploadId: 604606

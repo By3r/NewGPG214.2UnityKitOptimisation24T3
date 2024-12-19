@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 049606f690e98a949bc26f5a5c210b4d
+timeCreated: 1511175943
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Materials/Environment/Stonework/StairsNarrow01_Mat.mat
+  uploadId: 604606

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a6ad53baa2518884f92e462d7fe49d97
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Prefabs/Environment/VegetationSmall/VegetationSmall07V2.prefab
+  uploadId: 604606

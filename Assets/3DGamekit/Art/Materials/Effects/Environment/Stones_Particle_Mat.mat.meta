@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4ac7c4f70dacbc742a33d842cebc2157
+timeCreated: 1473673924
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Materials/Effects/Environment/Stones_Particle_Mat.mat
+  uploadId: 604606

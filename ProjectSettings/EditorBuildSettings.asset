@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/GPG214.2DanaTaha24T3/DanasScenes/MainMenu.unity
+    guid: 4ad33775e9e5cf24a96d486aaa5ec7aa
+  - enabled: 1
+    path: Assets/GPG214.2DanaTaha24T3/DanasScenes/DanaLevelOne.unity
+    guid: 088af4b7ab10fd346a2c3fb9417f6fc4
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

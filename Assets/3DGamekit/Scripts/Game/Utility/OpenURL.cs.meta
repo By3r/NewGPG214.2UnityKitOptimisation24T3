@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4a285a926a0cd654280fc5b842d63c0a
+timeCreated: 1517331353
+licenseType: Store
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Scripts/Game/Utility/OpenURL.cs
+  uploadId: 604606

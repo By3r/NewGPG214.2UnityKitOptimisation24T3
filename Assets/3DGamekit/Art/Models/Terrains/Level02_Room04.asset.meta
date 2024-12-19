@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 294ee66700c2ade4d9a4b1afa0d0df6b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4300000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115747
+  packageName: 3D Game Kit
+  packageVersion: 1.9.5
+  assetPath: Assets/3DGamekit/Art/Models/Terrains/Level02_Room04.asset
+  uploadId: 604606
