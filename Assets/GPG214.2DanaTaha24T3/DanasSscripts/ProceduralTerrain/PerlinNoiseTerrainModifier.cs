@@ -11,12 +11,21 @@ namespace Dana
     public class PerlinNoiseTerrainModifier : MonoBehaviour
     {
         #region Variables
+        [Header("Terrain Modifier Variables")]
+        [Tooltip("This affects the width size of the terrain. Place any number between 0 up to the max " +
+            "size set for the terrain. e.g. if the terrain size is 65 x 65 x 65 then the maximum is 65.")]
         [SerializeField] private int terrainWidth;
+        [Tooltip("This affects the amount of width surface affected by other terrain settings. Place any " +
+            "number between 0 up to the max size set for the terrain. e.g. if the terrain size is 65 x " +
+            "65 x 65 then the maximum is 65. Avoid making the number bigger than the amount given to terrainWidth.")]
         [SerializeField] private int terrainHeight;
-        [SerializeField] private int terrainDepth;
+        [Tooltip("The higher the number the bumpier the surface will be.")]
         [SerializeField] private float scale;
+        [Tooltip("The higher the number the taller the bump is.")]
         [SerializeField] private float bumpHeight;
+        [Tooltip("Use this to change the noise's position to suit your needs.")]
         [SerializeField] private Vector2 offset;
+        [Tooltip("Change the terrain size settings through this variable.")]
         [SerializeField] private Vector3 terrainSize = new Vector3(65, 50, 65);
         #endregion
 

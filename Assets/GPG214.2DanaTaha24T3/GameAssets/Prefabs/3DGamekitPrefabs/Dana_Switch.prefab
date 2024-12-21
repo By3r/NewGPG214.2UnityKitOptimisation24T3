@@ -5027,7 +5027,7 @@ GameObject:
   - component: {fileID: 7089018242111275554}
   - component: {fileID: 5991227490036109958}
   m_Layer: 16
-  m_Name: Dana-Switch
+  m_Name: Dana_Switch
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

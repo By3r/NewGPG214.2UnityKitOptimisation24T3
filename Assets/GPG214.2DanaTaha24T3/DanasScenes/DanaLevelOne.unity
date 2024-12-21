@@ -783,16 +783,26 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 935858548}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 38321aa3f35fbea47a7f234a934a123a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  desiredPrefabNames:
+  - Dana_Stacked5Cubes
+  - Coin
+  - Dana_Chomper
+  - Dana_GroundCover01
+  - Dana_GroundCover02
   texture: {fileID: 2800000, guid: 00fb7fcf500a0b7458c8af4e4c895b06, type: 3}
-  targetColors: []
-  prefabs: []
+  targetColors:
+  - {r: 0.94117653, g: 0.8470589, b: 0.50980395, a: 1}
+  - {r: 0.30980393, g: 0.95294124, b: 0.38823533, a: 1}
+  - {r: 0.9568628, g: 0.28235295, b: 0.9450981, a: 1}
+  - {r: 0.078431375, g: 0.078431375, b: 0.078431375, a: 1}
+  - {r: 0.17254902, g: 0.7568628, b: 0.9725491, a: 1}
   spacing: 1
-  terrainLayer:
+  terrainLayermask:
     serializedVersion: 2
     m_Bits: 65536
   heightOffset: 0.1
@@ -2211,6 +2221,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1599582614}
   - component: {fileID: 1599582613}
+  - component: {fileID: 1599582615}
   m_Layer: 0
   m_Name: --- Danas Scripts ---
   m_TagString: Untagged
@@ -2230,6 +2241,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c661a33d14defb540b0ee72b8e3675d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  requiredCoinsAmountToUnlockSword: 5
 --- !u!4 &1599582614
 Transform:
   m_ObjectHideFlags: 0
@@ -2245,6 +2257,21 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1599582615
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1599582612}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7393de5089a49554a9c9debdbf15ff66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  assetBundleUrl: https://drive.google.com/uc?id=15nMzjVxP09vMHhOi6QnJ1ddv_tCSeHuL
+  bundleName: basiclevelassets_19.12.24
+  prefabSpawner: {fileID: 935858549}
 --- !u!1001 &1642295903
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2255,31 +2282,31 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4405054866690174, guid: 1fac0dae54de3224181696b709bb4d66, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 22.840012
       objectReference: {fileID: 0}
     - target: {fileID: 4405054866690174, guid: 1fac0dae54de3224181696b709bb4d66, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.8800001
+      value: -6.9929976
       objectReference: {fileID: 0}
     - target: {fileID: 4405054866690174, guid: 1fac0dae54de3224181696b709bb4d66, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -4
+      value: 62.059998
       objectReference: {fileID: 0}
     - target: {fileID: 4405054866690174, guid: 1fac0dae54de3224181696b709bb4d66, type: 3}
       propertyPath: m_LocalRotation.w
-      value: -0.9869713
+      value: 0.9999198
       objectReference: {fileID: 0}
     - target: {fileID: 4405054866690174, guid: 1fac0dae54de3224181696b709bb4d66, type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.03552303
+      value: 0.012667448
       objectReference: {fileID: 0}
     - target: {fileID: 4405054866690174, guid: 1fac0dae54de3224181696b709bb4d66, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.15682262
+      value: -0.00000040107375
       objectReference: {fileID: 0}
     - target: {fileID: 4405054866690174, guid: 1fac0dae54de3224181696b709bb4d66, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0.0056977067
+      value: 0.0000000042921626
       objectReference: {fileID: 0}
     - target: {fileID: 4864495072746176, guid: 1fac0dae54de3224181696b709bb4d66, type: 3}
       propertyPath: m_RootOrder
@@ -2677,7 +2704,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   terrainWidth: 65
   terrainHeight: 65
-  terrainDepth: 5
   scale: 3
   bumpHeight: 5
   offset: {x: 0, y: 0}

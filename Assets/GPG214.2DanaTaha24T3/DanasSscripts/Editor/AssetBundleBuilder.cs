@@ -1,5 +1,4 @@
 using UnityEditor;
-using UnityEngine;
 using System.IO;
 
 namespace Dana
@@ -21,7 +20,6 @@ namespace Dana
                 Directory.CreateDirectory(outputDirectory);
             }
             BuildPipeline.BuildAssetBundles(outputDirectory, BuildAssetBundleOptions.None, BuildTarget.StandaloneWindows64);
-            Debug.Log($"Asset Bundles built successfully and stored in: {outputDirectory}");
         }
     }
 }

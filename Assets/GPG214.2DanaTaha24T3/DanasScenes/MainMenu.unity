@@ -1756,6 +1756,7 @@ GameObject:
   - component: {fileID: 299620093}
   - component: {fileID: 299620092}
   - component: {fileID: 299620091}
+  - component: {fileID: 299620095}
   m_Layer: 0
   m_Name: --- Scripts ---
   m_TagString: Untagged
@@ -1846,6 +1847,18 @@ MonoBehaviour:
   confirmPasswordInput: {fileID: 2043030637}
   feedbackText: {fileID: 1480014228}
   usersLogin: {fileID: 299620091}
+--- !u!114 &299620095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 299620089}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20e53f43fba4584468ab29de54a3461e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &342765328 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 1526935311670370857, guid: c523be6332f155d48b3c52ca9f4ba3f5,
@@ -3002,6 +3015,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
+      objectReference: {fileID: 299620091}
+    - target: {fileID: 8514497303123270528, guid: c523be6332f155d48b3c52ca9f4ba3f5,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnDeleteButtonPressed
+      objectReference: {fileID: 0}
+    - target: {fileID: 8514497303123270528, guid: c523be6332f155d48b3c52ca9f4ba3f5,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Dana.UsersLogin, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 8638465705322108354, guid: c523be6332f155d48b3c52ca9f4ba3f5,
         type: 3}
@@ -7301,6 +7324,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
+      objectReference: {fileID: 299620091}
+    - target: {fileID: 8893202671153409151, guid: a58da49f59dd6f94698cc089c62cf4ed,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnDeleteButtonPressed
+      objectReference: {fileID: 0}
+    - target: {fileID: 8893202671153409151, guid: a58da49f59dd6f94698cc089c62cf4ed,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Dana.UsersLogin, Assembly-CSharp
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -7464,6 +7497,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
+      objectReference: {fileID: 299620091}
+    - target: {fileID: 8008321465000682559, guid: 37db8031b0e0b584e97eab692e110aee,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: OnDeleteButtonPressed
+      objectReference: {fileID: 0}
+    - target: {fileID: 8008321465000682559, guid: 37db8031b0e0b584e97eab692e110aee,
+        type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: Dana.UsersLogin, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 8414449888939623126, guid: 37db8031b0e0b584e97eab692e110aee,
         type: 3}
