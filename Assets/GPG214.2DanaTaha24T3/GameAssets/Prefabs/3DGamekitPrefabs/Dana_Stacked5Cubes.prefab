@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 8571170735812424225}
   - component: {fileID: 5290018555542017253}
   - component: {fileID: 6561500432471966491}
-  - component: {fileID: -1385603936750884622}
+  - component: {fileID: 736345925965487931}
   m_Layer: 16
   m_Name: Dana_Stacked5Cubes
   m_TagString: Untagged
@@ -328,7 +328,7 @@ MonoBehaviour:
   m_SelectedFaces: 
   m_SelectedEdges: []
   m_SelectedVertices: 
---- !u!65 &-1385603936750884622
+--- !u!65 &736345925965487931
 BoxCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -347,5 +347,5 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1, y: 5, z: 1}
+  m_Center: {x: 0.5, y: 2.5, z: -0.5}
