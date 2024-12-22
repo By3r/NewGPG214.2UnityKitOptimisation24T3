@@ -1,3 +1,4 @@
+using Gamekit3D;
 using System.Collections;
 using System.IO;
 using UnityEngine;
@@ -27,10 +28,21 @@ namespace Dana
         private void Start()
         {
             SetLocalPathForAssetBundle(Application.persistentDataPath, bundleName);
-            StartCoroutine(CheckAndDownloadBundle());
+            StartCoroutine(LoadLevelWithScreenFader());
         }
 
         #region Private Functions
+        /// <summary>
+        /// Utilizes GameKit3D's screen fader script to fade the screen.
+        /// </summary>
+        /// <returns></returns>
+        private IEnumerator LoadLevelWithScreenFader()
+        {
+            yield return ScreenFader.FadeSceneOut(ScreenFader.FadeType.Loading);
+            yield return StartCoroutine(CheckAndDownloadBundle());
+            yield return ScreenFader.FadeSceneIn();
+        }
+
         /// <summary>
         /// Fetch metadata, compare versions, and download the new bundle if necessary.
         /// </summary>
@@ -70,10 +82,8 @@ namespace Dana
         /// </summary>
         private IEnumerator DownloadAndLoadAssetBundle(string url)
         {
-
             UnityWebRequest bundleRequest = UnityWebRequest.Get(url);
             bundleRequest.downloadHandler = new DownloadHandlerFile(_localBundlePath);
-
             yield return bundleRequest.SendWebRequest();
 
             if (bundleRequest.result != UnityWebRequest.Result.Success)
@@ -89,7 +99,10 @@ namespace Dana
         /// </summary>
         private IEnumerator LoadBundleFromDownloadedFile()
         {
-            AssetBundle bundle = AssetBundle.LoadFromFile(_localBundlePath);
+            AssetBundleCreateRequest bundleRequest = AssetBundle.LoadFromFileAsync(_localBundlePath);
+            yield return bundleRequest;
+
+            AssetBundle bundle = bundleRequest.assetBundle;
             if (bundle != null)
             {
                 if (prefabSpawnerScript != null)
@@ -99,15 +112,11 @@ namespace Dana
                 }
                 else
                 {
-                    //   Debug.LogError("Prefab spawner script is not assigned.");
                 }
             }
             else
-            {
-                //    Debug.LogError("Failed to load the asset bundle. The file may be corrupted.");
+            {;
             }
-
-            yield return null;
         }
 
         /// <summary>
@@ -119,7 +128,7 @@ namespace Dana
         {
             _localBundlePath = Path.Combine(path, "AssetBundles", nameOfBundle);
         }
-        #endregion
+#endregion
     }
 
     #region Json for parsing

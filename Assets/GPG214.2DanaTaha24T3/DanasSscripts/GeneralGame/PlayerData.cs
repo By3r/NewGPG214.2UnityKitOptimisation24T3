@@ -1,22 +1,23 @@
-[System.Serializable]
-public struct PlayerData
+namespace Dana
 {
-    #region Variables
-    public int checkpoint;
-    public int hp;
-    public int enemiesKilled;
-    public int coinsCollected;
-    public bool isSwordUnlocked;
-    #endregion
+    /// <summary>
+    /// Tracks each player's amount of coins collected and the status of their ability to use the melee.
+    /// </summary>
 
-    #region Struct instance.
-    public PlayerData(int checkpoint, int hp, int enemiesKilled, int coinsCollected, bool isSwordUnlocked)
+    [System.Serializable]
+    public struct PlayerData
     {
-        this.checkpoint = checkpoint;
-        this.hp = hp;
-        this.enemiesKilled = enemiesKilled;
-        this.coinsCollected = coinsCollected;
-        this.isSwordUnlocked = isSwordUnlocked;
+        #region Variables
+        public int coinsCollected;
+        public bool isSwordLocked;
+        #endregion
+
+        #region Struct instance.
+        public PlayerData(int coinsCollected, bool isSwordUnlocked)
+        {
+            this.coinsCollected = coinsCollected;
+            this.isSwordLocked = isSwordUnlocked;
+        }
+        #endregion
     }
-    #endregion
 }
