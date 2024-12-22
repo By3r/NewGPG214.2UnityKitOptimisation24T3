@@ -63,11 +63,11 @@ namespace Dana
         public void AddCoins(int amount)
         {
             _currentPlayerData.coinsCollected += amount;
-            if (!_currentPlayerData.isSwordLocked && _currentPlayerData.coinsCollected >= coinTotalForStaff)
+            if (!_currentPlayerData.isSwordUnlockable && _currentPlayerData.coinsCollected >= coinTotalForStaff)
             {
                 UnlockStaff();
             }
-            else if (_currentPlayerData.isSwordLocked && _currentPlayerData.coinsCollected <= coinTotalForStaff)
+            else if (_currentPlayerData.isSwordUnlockable && _currentPlayerData.coinsCollected <= coinTotalForStaff)
             {
                 KeepStaffLocked();
             }
@@ -79,7 +79,7 @@ namespace Dana
         /// </summary>
         public void RecordSwordUnlockEvent()
         {
-            _currentPlayerData.isSwordLocked = true;
+            _currentPlayerData.isSwordUnlockable = true;
             SavePlayerData(_currentPlayerData);
         }
         #region Weapons based Functions
@@ -105,7 +105,7 @@ namespace Dana
         {
             foreach (var pickup in _registeredWeaponPickups)
             {
-                pickup.TogglePickupScript(_currentPlayerData.isSwordLocked);
+                pickup.TogglePickupScript(_currentPlayerData.isSwordUnlockable);
             }
         }
         #endregion
@@ -166,7 +166,7 @@ namespace Dana
             {
                 if (!IsDefaultPlayerData(data))
                 {
-                    Debug.Log($"Player data loaded: Checkpoint = Coins = {data.coinsCollected}, Sword Unlocked = {data.isSwordLocked}");
+                    Debug.Log($"Player data loaded: Coins = {data.coinsCollected}, Sword Unlocked = {data.isSwordUnlockable}");
                     _currentPlayerData = data;
                 }
                 else
@@ -181,18 +181,18 @@ namespace Dana
 
         private bool IsDefaultPlayerData(PlayerData data)
         {
-            return data.coinsCollected == 0 && data.isSwordLocked;
+            return data.coinsCollected == 0 && data.isSwordUnlockable;
         }
 
         private void UnlockStaff()
         {
-            _currentPlayerData.isSwordLocked = true;
+            _currentPlayerData.isSwordUnlockable = true;
             UpdateWeaponPickupState();
         }
 
         private void KeepStaffLocked()
         {
-            _currentPlayerData.isSwordLocked = false;
+            _currentPlayerData.isSwordUnlockable = false;
             UpdateWeaponPickupState();
         }
 

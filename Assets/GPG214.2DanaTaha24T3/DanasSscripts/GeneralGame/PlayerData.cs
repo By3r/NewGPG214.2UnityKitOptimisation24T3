@@ -9,14 +9,14 @@ namespace Dana
     {
         #region Variables
         public int coinsCollected;
-        public bool isSwordLocked;
+        public bool isSwordUnlockable;
         #endregion
 
         #region Struct instance.
         public PlayerData(int coinsCollected, bool isSwordUnlocked)
         {
             this.coinsCollected = coinsCollected;
-            this.isSwordLocked = isSwordUnlocked;
+            this.isSwordUnlockable = isSwordUnlocked;
         }
         #endregion
     }

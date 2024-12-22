@@ -57,15 +57,6 @@ namespace Gamekit3D
             }
         }
 
-        #region Danas Script Addition to Damageable script.
-        /// <summary>
-        /// Sets current hp amount and makes sure the value does not exceed the max hit value. (3)
-        /// </summary>
-        public void SetCurrentHitPoints(int hp)
-        {
-            currentHitPoints = Mathf.Clamp(hp, 0, maxHitPoints);
-        }
-        #endregion
 
         public void ResetDamage()
         {
