@@ -39,10 +39,6 @@ namespace Dana
             _assetBundle = assetBundle;
 
             string[] assetNames = _assetBundle.GetAllAssetNames();
-            foreach (string assetName in assetNames)
-            {
-                Debug.Log($"Asset found in bundle: {assetName}");
-            }
 
             _prefabs.Clear();
 
@@ -52,12 +48,10 @@ namespace Dana
 
                 if (!string.IsNullOrEmpty(matchingAssetPath))
                 {
-                    Debug.Log($"Attempting to load prefab: {desiredName}");
                     GameObject prefab = _assetBundle.LoadAsset<GameObject>(matchingAssetPath);
                     if (prefab != null)
                     {
                         _prefabs.Add(prefab);
-                        Debug.Log($"Successfully loaded prefab: {prefab.name}");
                     }
                     else
                     {

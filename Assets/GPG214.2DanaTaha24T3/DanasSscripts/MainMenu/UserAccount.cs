@@ -2,6 +2,10 @@ using System.Collections.Generic;
 
 namespace Dana
 {
+    /// <summary>
+    /// Contains each user's personal data to bind into an account.
+    /// </summary>
+   
     [System.Serializable]
     public class UserAccount
     {
